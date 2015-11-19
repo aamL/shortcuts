@@ -11,3 +11,6 @@ strg + y
 
 ## Scatch File
 strg + shift + alt + insert
+
+## Console History
+alt + f7
